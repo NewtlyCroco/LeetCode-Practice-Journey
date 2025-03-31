@@ -32,11 +32,20 @@ I have scheduled **Coding Sessions** every **Monday and Wednesday** ⏳, so expe
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/0412-fizz-buzz) |
 | [2571-find-the-pivot-integer](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2571-find-the-pivot-integer) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2571-find-the-pivot-integer) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
 
 
