@@ -67,3 +67,15 @@ If you're also on a **LeetCode grind**, let’s connect! Drop your thoughts, str
 Happy coding! 🚀🔥  
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2571-find-the-pivot-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2571-find-the-pivot-integer) |
+<!---LeetCode Topics End-->
