@@ -8,20 +8,6 @@ Welcome to my **LeetCode Practice Journey**! 🎯 This is where I document all m
 
 I have scheduled **Coding Sessions** every **Monday and Wednesday** ⏳, so expect consistent updates!  
 
----
-
-## 📊 Progress Tracker  
-
-Here's my **static but manually updatable** progress tracker! 📝 (I'll update this as I go)  
-LeetCode Problems Solved: 2 ✅ 
-Total Attempts: 5 🔄 
-Success Rate: 44% 📈 
-Current Streak: 1 day(s) 🔥(Of my allocated practice times)
-
-
-> *Let's see how much I improve over time! 🏆*  
-
----
 
 ## 🏆 Goals & Challenges  
 
@@ -41,12 +27,18 @@ Current Streak: 1 day(s) 🔥(Of my allocated practice times)
 
 ## 📖 Recent Problems & Thoughts  
 
-| 🆔 Problem | 💡 Difficulty | 🔍 My Thoughts |
-|-----------|--------------|---------------|
-| [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard  | Managed to get all the test cases, but forgot a component of the problem of encapsulating layered paratheses |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2571-find-the-pivot-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2571-find-the-pivot-integer) |
+<!---LeetCode Topics End-->
 
-
----
 
 ## 🚧 Roadblocks & Lessons Learned  
 
@@ -67,15 +59,3 @@ If you're also on a **LeetCode grind**, let’s connect! Drop your thoughts, str
 Happy coding! 🚀🔥  
 
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [2571-find-the-pivot-integer](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2571-find-the-pivot-integer) |
-## Prefix Sum
-|  |
-| ------- |
-| [2571-find-the-pivot-integer](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2571-find-the-pivot-integer) |
-<!---LeetCode Topics End-->
