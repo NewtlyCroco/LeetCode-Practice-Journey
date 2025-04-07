@@ -34,6 +34,7 @@ I have scheduled **Coding Sessions** every **Monday and Wednesday** ⏳, so expe
 | ------- |
 | [0412-fizz-buzz](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/0412-fizz-buzz) |
 | [2571-find-the-pivot-integer](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2571-find-the-pivot-integer) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -46,6 +47,7 @@ I have scheduled **Coding Sessions** every **Monday and Wednesday** ⏳, so expe
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/0412-fizz-buzz) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +68,14 @@ I have scheduled **Coding Sessions** every **Monday and Wednesday** ⏳, so expe
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/0200-number-of-islands) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
 
 
