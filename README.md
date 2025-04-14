@@ -52,6 +52,7 @@ I have scheduled **Coding Sessions** every **Monday and Wednesday** ⏳, so expe
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/0200-number-of-islands) |
+| [2447-merge-similar-items](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2447-merge-similar-items) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -76,6 +77,18 @@ I have scheduled **Coding Sessions** every **Monday and Wednesday** ⏳, so expe
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Hash Table
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2447-merge-similar-items) |
+## Sorting
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2447-merge-similar-items) |
+## Ordered Set
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2447-merge-similar-items) |
 <!---LeetCode Topics End-->
 
 
