@@ -52,6 +52,7 @@ I have scheduled **Coding Sessions** every **Monday and Wednesday** ⏳, so expe
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/0200-number-of-islands) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2447-merge-similar-items](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2447-merge-similar-items) |
 ## Depth-First Search
 |  |
@@ -80,15 +81,25 @@ I have scheduled **Coding Sessions** every **Monday and Wednesday** ⏳, so expe
 ## Hash Table
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2447-merge-similar-items](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2447-merge-similar-items) |
 ## Sorting
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2447-merge-similar-items](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2447-merge-similar-items) |
 ## Ordered Set
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2447-merge-similar-items) |
+## Two Pointers
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
+## Binary Search
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
 
 
