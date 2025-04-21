@@ -52,6 +52,7 @@ I have scheduled **Coding Sessions** every **Monday and Wednesday** ⏳, so expe
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/0200-number-of-islands) |
+| [0777-toeplitz-matrix](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/0777-toeplitz-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2447-merge-similar-items](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/2447-merge-similar-items) |
 ## Depth-First Search
@@ -70,6 +71,7 @@ I have scheduled **Coding Sessions** every **Monday and Wednesday** ⏳, so expe
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/0200-number-of-islands) |
+| [0777-toeplitz-matrix](https://github.com/NewtlyCroco/LeetCode-Practice-Journey/tree/master/0777-toeplitz-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
